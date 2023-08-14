@@ -1,0 +1,19 @@
+{
+  "name": "mern_a_to_z",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devvaidya24/CISE_React2.git"
+  },
+  "author": "Dev Vaidya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Devvaidya24/CISE_React2/issues"
+  },
+  "homepage": "https://github.com/Devvaidya24/CISE_React2#readme"
+}
